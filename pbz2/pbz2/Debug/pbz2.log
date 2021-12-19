@@ -1,0 +1,12 @@
+﻿  pbz2.cpp
+D:\Учеба\сем5\ПБЗ\лаб2\pbz2\pbz2\ListOfCompanies.h(97,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Учеба\сем5\ПБЗ\лаб2\pbz2\pbz2\ListOfEmployees.h(76,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Учеба\сем5\ПБЗ\лаб2\pbz2\pbz2\ListOfAgents.h(66,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Учеба\сем5\ПБЗ\лаб2\pbz2\pbz2\CollectiveAgreement.h(109,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Учеба\сем5\ПБЗ\лаб2\pbz2\pbz2\ListOfAgreements.h(18,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Учеба\сем5\ПБЗ\лаб2\pbz2\pbz2\ListOfAgreements.h(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Учеба\сем5\ПБЗ\лаб2\pbz2\pbz2\ListOfAgreements.h(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Учеба\сем5\ПБЗ\лаб2\pbz2\pbz2\ListOfAgreements.h(32,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Учеба\сем5\ПБЗ\лаб2\pbz2\pbz2\ListOfAgreements.h(68,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Учеба\сем5\ПБЗ\лаб2\pbz2\pbz2\CollectiveAgreement.h(62): warning C4715: CollectiveAgreement::getPayment: значение возвращается не при всех путях выполнения
+  pbz2.vcxproj -> D:\Учеба\сем5\ПБЗ\лаб2\pbz2\Debug\pbz2.exe
